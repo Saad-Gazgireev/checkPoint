@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Open+Sans&display=swap');
+
+body{
+    background-color: #FFDBC5;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(44, 44, 44);
+    
+}
+.avatar img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+h1{
+    
+    color:#794C74;
+}
+h2{
+    color: #C56183;
+}
+h3{
+    color:#F05454;
+}    
+h4{
+    color:#00BCD4;
+}
+a{
+    text-decoration: none;
+    color:#6A5495;
+}
+ul li{
+    list-style-type: none;
+    line-height: 30px;
+}
+a:hover{
+    transition: 0.03s;
+    color: #322e53;
+}
+
+
+
