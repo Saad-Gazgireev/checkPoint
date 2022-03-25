@@ -44,8 +44,13 @@ h4{
     text-align: center;
     font-size: 15px;  
     padding: 15px 20px;
-    background-color: rgb(23, 187, 110);
+    background-color: rgb(71, 68, 66);
     border-radius: 4px;
+}
+.button:hover{
+    transition: 0.03s;
+    background-color: burlywood;
+    color: #322e53;
 }
 .button a{
     text-decoration: none;
@@ -79,10 +84,6 @@ ul li a{
 ul li{
     list-style-type: none;
     line-height: 30px;
-}
-a:hover{
-    transition: 0.03s;
-    color: #322e53;
 }
 
 
